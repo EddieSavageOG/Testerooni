@@ -1,2 +1,2 @@
 # Testerooni
-Just testing stuff out on the github
+Testing things on Github! Feel free to edit this file.
